@@ -1,2 +1,2 @@
-chatgptpy==1.0.1
-bottle==0.12.23
+chatgptpy>=1.0.0
+bottle>=0.12.23
