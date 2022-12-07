@@ -36,7 +36,7 @@ keyutils==0.6
 lensfun==0.3.3
 libfdt==1.6.1
 louis==3.22.0
-lxml==4.8.0
+lxml==4.9.1
 MarkupSafe==2.1.1
 meson==0.63.0
 more-itertools==8.12.0
